@@ -1,4 +1,5 @@
 # BERT
+<<<<<<< HEAD
 
 **\*\*\*\*\* New May 31st, 2019: Whole Word Masking Models \*\*\*\*\***
 
@@ -1044,3 +1045,6 @@ For help or issues using BERT, please submit a GitHub issue.
 For personal communication related to BERT, please contact Jacob Devlin
 (`jacobdevlin@google.com`), Ming-Wei Chang (`mingweichang@google.com`), or
 Kenton Lee (`kentonl@google.com`).
+=======
+Play with original bert paper
+>>>>>>> 5d2e38f119cfd0905d882cb27e553f2ee5745012
